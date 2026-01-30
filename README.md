@@ -4,7 +4,7 @@ Show folder path in status bar.
 
 Works on images.
 
-\!\[feature X\]\(imgs/img.png\)
+<img src="https://raw.githubusercontent.com/hyeoniuwu/vscode-current-folder-in-status-bar/refs/heads/main/imgs/img.png">
 
 ## Extension Settings
 * `current-folder-in-status-bar.show`: Show/hide folder path in status bar.
