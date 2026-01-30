@@ -2,6 +2,8 @@
 
 Show folder path in status bar.
 
+The text can be clicked, to open the folder.
+
 Works on images.
 
 <img src="https://raw.githubusercontent.com/hyeoniuwu/vscode-current-folder-in-status-bar/refs/heads/main/imgs/img.png">
