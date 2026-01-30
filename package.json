@@ -1,16 +1,25 @@
 {
   "name": "current-folder-in-status-bar",
   "displayName": "Current Folder in Status Bar",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Displays parent folder in the status bar.",
+  "version": "1.0.0",
+  "publisher": "hyeoniuwu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyeoniuwu/vscode-current-folder-in-status-bar"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "folder",
+    "path"
+  ],
   "activationEvents": [
-    "*"
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
